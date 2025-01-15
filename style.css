@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #000;
+    color: white;
+}
+
+.yt-icon{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid gray;
+    padding: 1rem;
+}
+
+.g-nav{
+    display: flex;
+    justify-content: space-evenly; 
+    margin-top: 10px;
+    width: 100vw;
+    overflow-y: hidden;
+    border: 1px solid gray;
+}
+
+
+.g-nav > div {
+    display: flexbox;
+    height: 2.5rem;
+    width: auto;
+    background-color: gray;  
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 10px;
+    margin-left: 8px;
+}
+
+.g-nav> div:first-child{
+margin-left: 10rem;
+}
+
+.post-container > div{
+    width: 100%;
+    height: 15rem;
+    border: 1px solid red;
+}
+
+.footer{
+    position: fixed;
+    padding: 10px;
+    bottom: 0;
+    border: 1px solid gray;
+    height: 5rem;
+    background-color: gray  ;
+}
+
+.footer-nav{
+    justify-content: space-evenly;
+    display: flex;
+width: 100vw;
+}
