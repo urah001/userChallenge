@@ -5,6 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>My Journey</title>
+  <!-- style link for external css -->
   <link rel="stylesheet" href="./style.css" />
 </head>
 
@@ -17,7 +18,7 @@
       <a class="links" href="paymate_gateway.html">Payment</a>
     </nav>
   </header>
-
+<!-- edit it to your taste -->
 
   <main>
     <section class="timeline">
