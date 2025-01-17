@@ -9,3 +9,9 @@ iv. Ensure your form submits data into the database and retrieves it using PHP
 v. Provide a payment page on your site.
 vi. The look and feel of your site should be captivating
 vii. Ensure responsiveness
+
+
+to do:
+style payment gateway
+style form 
+retieve requested item price from db
