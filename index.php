@@ -14,7 +14,7 @@
     <h1>Welcome to My Journey in life</h1>
     <nav>
       <!-- anchor tag to navigate user to specific page when clicked  -->
-      <a class="links" href="store.php">Shop</a>
+      <a class="links" href="store.html">Shop</a>
       <a class="links" href="paymate_gateway.html">Payment</a>
     </nav>
   </header>
