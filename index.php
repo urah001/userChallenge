@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>My Journey</title>
   <!-- style link for external css -->
-  <link rel="stylesheet" href="./style.css" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
@@ -15,10 +15,9 @@
     <nav>
       <!-- anchor tag to navigate user to specific page when clicked  -->
       <a class="links" href="store.html">Shop</a>
-      <a class="links" href="paymate_gateway.html">Payment</a>
     </nav>
   </header>
-<!-- edit it to your taste -->
+  <!-- edit it to your taste -->
 
   <main>
     <section class="timeline">
@@ -60,7 +59,7 @@
           </p>
         </div>
       </div>
-<!-- you can add more to make it much  -->
+      <!-- you can add more to make it much  -->
       </div>
 
 
