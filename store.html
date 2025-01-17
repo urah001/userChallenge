@@ -9,10 +9,6 @@
   <body>
     <h1>Request Item Price</h1>
     <form id="requestForm" action="submit_data.php" method="POST">
-      <!-- Label for item name -->
-      <label for="itemName">Item Name:</label>
-      <input type="text" id="itemName" name="itemName" required /><br /><br />
-
       <!-- Label for category -->
       <label for="itemCategory">Category:</label>
       <select id="itemCategory" name="itemCategory">
@@ -22,6 +18,11 @@
         <option value="home">Home</option>
         <option value="food">Food</option></select
       ><br /><br />
+
+      <!-- Label for item name -->
+      <label for="itemName">Item Name:</label>
+      <input type="text" id="itemName" name="itemName" required />
+      <br /><br />
 
       <!-- Label for quantity -->
       <label for="itemQuantity">Quantity:</label>
