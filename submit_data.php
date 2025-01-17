@@ -52,7 +52,7 @@
             echo "<h3>Request Successful!</h3>";
             echo "<p>Item: $itemName</p>";
             echo "<p>Category: $itemCategory</p>";
-            echo "<p>Price per Item:  ₦$itemPrice</p>";
+            echo "<p>Price of One:  ₦$itemPrice</p>";
             echo "<p>Quantity: $itemQuantity</p>";
             echo "<p>Total Price:  ₦$totalPrice</p>";
         } else {

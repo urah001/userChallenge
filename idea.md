@@ -13,13 +13,8 @@ vii. Ensure responsiveness
 
 to do:
 style payment gateway
-style form 
-retieve requested item price from db
+style form: done
+retieve requested item price from db :done
 
 
 
-
-	Edit Edit 	Copy Copy 	Delete Delete 	2 	T-shirt 	clothing 	25.00
-	Edit Edit 	Copy Copy 	Delete Delete 	3 	Novel 	books 	15.00
-	Edit Edit 	Copy Copy 	Delete Delete 	4 	Vacuum Cleaner 	home 	150.00
-	Edit Edit 	Copy Copy 	Delete Delete 	5 	Burger 	food 	5.00
